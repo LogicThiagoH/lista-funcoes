@@ -1,8 +1,8 @@
 /*
-6. Desenvolva uma função chamada formatarPessoa que receba um objeto
-contendo informações pessoais, sendo elas nome, idade e profissão.
-A função deverá utilizar esses dados para construir uma mensagem
-com todas as informações da pessoa.
+6. Crie uma função chamada formatarPessoa que receba um objeto representando
+uma pessoa com as propriedades nome, idade e profissao. A função deve retornar
+uma frase formatada no padrão: "Olá, meu nome é [nome], tenho [idade] anos e
+trabalho como [profissao]."
 Entrada: Um objeto com as informações da pessoa
 Processamento: A função deve acessar as propriedades do objeto e formatar uma mensagem
 Saída: Uma mensagem formatada com as informações da pessoa
